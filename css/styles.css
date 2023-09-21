@@ -217,6 +217,8 @@ color: var(--paragraph-color);
 .buttons button:focus,
 .buttons button:active {
     background-color: var(--active-link);
+    color: var(--default-background);
+    border: 0;
 }
 
 .services-types h3 {
